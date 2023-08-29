@@ -2,4 +2,4 @@
 
 # TBA
 
-[Back to Exercise selection](./README.md)
+[Back to Exercise selection](../README.md)
