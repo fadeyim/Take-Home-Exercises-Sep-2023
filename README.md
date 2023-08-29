@@ -10,14 +10,5 @@
 
 ## Submission of exercises/project
 
-Your source code must be submitted as per your instruction's direction. 
+Your source code must be submitted as per your instruction's direction. Marking rubrics are within the exercise.
 
-### General Marking Rubric
-
-| Weight | Breakdown |
-| ----- | --------- |
-| **1** | 1 = Proficient (requirement is met)<br />0 = Incomplete (requirement not met, missing large portions) |
-| **2** | 2 = Proficient (requirement is met)<br />1 = Limited (requirement is poorly met, minor errors)<br />0 = Incomplete (requirement not met, missing large portions, major errors) |
-| **3** | 3 = Proficient (requirement is met)<br />2 = Capable (requirement is adequately met, minor errors)<br />1 = Limited (requirement is poorly met, major errors)<br />0 = Incomplete (requirement not met, missing large portions, major errors) |
-| **4** | 4 = Proficient (requirement is met)<br />3 = Capable (requirement is adequately met, minor errors)<br />2 = Acceptable (requirement is partially met, minor errors)<br />1 = Limited (requirement is poorly met, major errors)<br />0 = Incomplete (requirement not met, missing large portions, major errors) |
-| **5** | 5 = Proficient (requirement is met)<br />4 = Capable (requirement is adequately met, minor errors)<br />3 = Acceptable (requirement is partially met, minor errors)<br />2 = Sub-Par (requirement is partially met, major errors)<br />1 = Limited (requirement is poorly met, major errors)<br />0 = Incomplete (requirement not met, missing large portions, major errors) |
