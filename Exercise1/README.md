@@ -52,6 +52,8 @@ Create a public static class called `Utilities`. This class will have public sta
 1. Create a method that will validate a numeric value to be a non-zero positive. 
 1. Create a method that will validate a numeric value is in 100 unit increments.
 
+**You must use these methods within your Engine classes where appropriate.**
+
 ### The `Unit Tests`
 
 A unit testing project called `UnitTestingEx1` has been supplied for this exercise. Add it to your solution. The tests have been commented out. As you code items in your class you can uncomment the appropriate unit test to evaluate your code. There is a separate unit test class for each of your classes. Check the unit test for the type of exception that is expected.
