@@ -8,7 +8,7 @@
 1. [Exercise 4](./Exercise4/README.md)
 
 
-## Submission of exercises/project
+## Submission of exercises
 
 Your source code must be submitted as per your instruction's direction. Marking rubrics are within the exercise.
 
