@@ -52,7 +52,7 @@ Create a public static class called `Utilities`. This class will have public sta
 1. Create a method that will validate a numeric value to be a non-zero positive. 
 1. Create a method that will validate a numeric value is in 100 unit increments.
 
-**You must use these methods within your Engine classes where appropriate.**
+**You must use these methods within your Engine class where appropriate.**
 
 ### The `Unit Tests`
 
