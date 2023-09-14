@@ -1,4 +1,4 @@
-# Take-Home Exercises/Project - Sep 2023
+# Take-Home Exercises Specifications - Sep 2023
 
 > Exercises for this term are posted to this repository. You can copy these instructions to your exercise repository set up by your instructor for this term. However, any updates to the instructions will be placed within this repository.
 
