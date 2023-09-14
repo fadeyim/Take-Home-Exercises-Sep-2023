@@ -10,5 +10,5 @@
 
 ## Submission of exercises
 
-Your source code must be submitted as per your instruction's direction. Marking rubrics are within the exercise.
+Your source code must be submitted as per your instructor's direction. Marking rubrics are within the exercise.
 
