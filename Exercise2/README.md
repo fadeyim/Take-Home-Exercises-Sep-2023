@@ -173,3 +173,5 @@ Commit your work in your **exercise** repository and sync to github.com.
 
 - [Hopper Image](./Hopper.jpg) - [Source](https://www.bouldercreekengineering.com/scale_ops3.php)
 - [Engine Image](./CP-7002-TStevens.jpg) - [Source](https://www.thedieselshop.us/CP.HTML)
+
+[Back to Exercise selection](../README.md)
