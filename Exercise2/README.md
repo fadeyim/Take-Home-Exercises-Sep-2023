@@ -44,7 +44,7 @@ Railcars carry various kinds of goods. Each railcar is stenciled with certain in
 
 ![RailCar](./Hopper.jpg)
 
-Railcars can be loaded with freight. When loaded, each car is weighed at a scale that gives the weight to the nearest 100 pounds. The **Gross Weight** is the weight of the freight and the railcar. The **Net Weight** is the weight of the freight only. Any weight within 90% of the **Capacity** is considered as a "full load". The railcar is defaulted to inservice when created. An overloaded .ToString() method for the class exists to return the instance values in a comma separated value string of the stored data.
+Railcars can be loaded with freight. When loaded, each car is weighed at a scale that gives the weight to the nearest 100 pounds. The **Gross Weight** is the weight of the freight and the railcar. The **Net Weight** is the weight of the freight only. Any weight within 90% of the **Capacity** is considered as a "full load". The railcar is defaulted to inservice when created. An overridden .ToString() method for the class exists to return the instance values in a comma separated value string of the stored data.
 
 ![RailCar](./RailCar-ClassDiagram.png)
 
