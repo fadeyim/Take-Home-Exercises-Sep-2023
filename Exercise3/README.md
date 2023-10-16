@@ -46,7 +46,7 @@ Modify the home component to include the following.
 
 You will place your CSV file into this folder. Create a text file called `RailCarWeights.txt` within this folder. For testing, add the first three lines from the sample report below.
 
-### Add `Model` folder and class definition
+### Add `Data` folder and class definition
 
 Implement the following class defintion. Properties can be auto-implemented. The SerialNumber is a read-only property returning a concatenated string of CarId and Owner.
 
